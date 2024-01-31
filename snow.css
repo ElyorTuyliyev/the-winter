@@ -1,0 +1,360 @@
+body {
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.contenir {
+  margin: 0 auto;
+  max-width: 1700px;
+}
+.winter-home {
+  width: 100%;
+  height: 100vh;
+  opacity: 1;
+  background-image: url(./pngtree-christmas-winter-snow-forest-border-png-image_8796617.png);
+  background-repeat: no-repeat;
+  background-size: 1550px;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  overflow: hidden;
+}
+
+@keyframes snow {
+  0% {
+    transform: translateY(0);
+    opacity: 0;
+  }
+  5% {
+    opacity: 1;
+  }
+  10% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    transform: translateY(550px);
+    color: rgb(0, 191, 255);
+    opacity: 0.5;
+  }
+}
+.snow1 {
+  opacity: 0;
+  font-size: 15px;
+  padding: 10px;
+  color: rgb(183, 233, 239);
+  animation: snow infinite;
+  animation-duration: 60s;
+  animation-delay: 40s;
+
+  position: relative;
+  top: 80px;
+  left: 10px;
+}
+.snow2 {
+  opacity: 0;
+  font-size: 15px;
+  padding: 10px;
+  color: rgb(183, 233, 239);
+  animation: snow infinite;
+  animation-duration: 60s;
+  animation-delay: 37s;
+  position: relative;
+  top: 70px;
+}
+.snow3 {
+  opacity: 0;
+  font-size: 15px;
+  padding: 10px;
+  color: rgb(183, 233, 239);
+  animation: snow infinite;
+  animation-duration: 60s;
+  animation-delay: 47s;
+  position: relative;
+  top: 60px;
+}
+.snow4 {
+  opacity: 0;
+  font-size: 15px;
+  padding: 10px;
+  color: rgb(183, 233, 239);
+  animation: snow infinite;
+  animation-duration: 60s;
+  animation-delay: 32.5s;
+  position: relative;
+  top: 90px;
+  right: 20px;
+}
+.snow5 {
+  opacity: 0;
+  font-size: 15px;
+  padding: 10px;
+  color: rgb(183, 233, 239);
+  animation: snow infinite;
+  animation-duration: 60s;
+  animation-delay: 35s;
+  position: relative;
+  top: 70px;
+  right: 60px;
+}
+.snow6 {
+  opacity: 0;
+  font-size: 15px;
+  padding: 10px;
+  color: rgb(183, 233, 239);
+  animation: snow infinite;
+  animation-duration: 60s;
+  animation-delay: 36s;
+  position: relative;
+  top: 100px;
+  right: 30px;
+}
+.snow7 {
+  opacity: 0;
+  font-size: 15px;
+  padding: 10px;
+  color: rgb(183, 233, 239);
+  animation: snow infinite;
+  animation-duration: 60s;
+  animation-delay: 38.5s;
+  position: relative;
+  top: 70px;
+  right: 50px;
+}
+.snow8 {
+  opacity: 0;
+  font-size: 15px;
+  padding: 10px;
+  color: rgb(183, 233, 239);
+  animation: snow infinite;
+  animation-duration: 60s;
+  animation-delay: 37s;
+  position: relative;
+  top: 80px;
+  right: 80;
+}
+.snow9 {
+  opacity: 0;
+  font-size: 15px;
+  padding: 10px;
+  color: rgb(183, 233, 239);
+  animation: snow infinite;
+  animation-duration: 60s;
+  animation-delay: 38.5s;
+  position: relative;
+  top: 70px;
+  right: 60px;
+}
+.snow10 {
+  opacity: 0;
+  font-size: 15px;
+  padding: 10px;
+  color: rgb(183, 233, 239);
+  animation: snow infinite;
+  animation-duration: 60s;
+  animation-delay: 40s;
+  position: relative;
+  top: 70px;
+  right: 50px;
+}
+.snow11 {
+  opacity: 0;
+  font-size: 15px;
+  padding: 10px;
+  color: rgb(183, 233, 239);
+  animation: snow infinite;
+  animation-duration: 60s;
+  animation-delay: 40s;
+  position: relative;
+  top: 90px;
+  left: 20px;
+}
+.snow12 {
+  opacity: 0;
+  font-size: 15px;
+  padding: 10px;
+  color: rgb(183, 233, 239);
+  animation: snow infinite;
+  animation-duration: 60s;
+  animation-delay: 43s;
+  position: relative;
+  top: 60px;
+  left: 15px;
+}
+.snow13 {
+  opacity: 0;
+  font-size: 15px;
+  padding: 10px;
+  color: rgb(183, 233, 239);
+  animation: snow infinite;
+  animation-duration: 60s;
+  animation-delay: 45s;
+  position: relative;
+  top: 90px;
+  right: 10px;
+}
+.snow14 {
+  opacity: 0;
+  font-size: 15px;
+  padding: 10px;
+  color: rgb(183, 233, 239);
+  animation: snow infinite;
+  animation-duration: 60s;
+  animation-delay: 42s;
+  position: relative;
+  top: 40px;
+}
+.snow15 {
+  opacity: 0;
+  font-size: 15px;
+  padding: 10px;
+  color: rgb(183, 233, 239);
+  animation: snow infinite;
+  animation-duration: 60s;
+  animation-delay: 44s;
+  position: relative;
+  top: 90px;
+  right: 50px;
+}
+.snow16 {
+  opacity: 0;
+  font-size: 15px;
+  padding: 10px;
+  color: rgb(183, 233, 239);
+  animation: snow infinite;
+  animation-duration: 60s;
+  animation-delay: 47s;
+  position: relative;
+  top: 70px;
+}
+.snow17 {
+  opacity: 0;
+  font-size: 15px;
+  padding: 10px;
+  color: rgb(183, 233, 239);
+  animation: snow infinite;
+  animation-duration: 60s;
+  animation-delay: 49s;
+  position: relative;
+  top: 90px;
+  right: 10;
+}
+.snow18 {
+  opacity: 0;
+  font-size: 15px;
+  padding: 10px;
+  color: rgb(183, 233, 239);
+  animation: snow infinite;
+  animation-duration: 60s;
+  animation-delay: 46s;
+  position: relative;
+  top: 80px;
+  right: 10px;
+}
+
+/* sun star */
+@keyframes sun {
+  0% {
+    transform: translateX(0px);
+    opacity: 0;
+  }
+
+  40% {
+    transform: translateY(-300px) translateX(650px) rotate(360deg);
+    opacity: 1;
+  }
+  50% {
+    transform: translateY(-300px) translateX(770px) rotate(360deg);
+    opacity: 1;
+  }
+  60% {
+    transform: translateY(-300px) translateX(820px) rotate(360deg);
+    opacity: 1;
+  }
+
+  100% {
+    transform: translateX(1500px) translateY(0px) rotate(180deg);
+    opacity: 1;
+  }
+}
+.sun {
+  width: 100px;
+  height: 100px;
+  opacity: 0;
+  position: relative;
+  top: 350px;
+  left: 30px;
+  animation: sun;
+  animation-duration: 30s;
+  animation-delay: 2s;
+  overflow: hidden;
+}
+/* sun finish */
+
+@keyframes cloud {
+  0% {
+    opacity: 0;
+  }
+  10% {
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.cloud-snow {
+  background-image: url(./white-cloud-clipart-design-illustration-free-png.webp);
+  width: 350px;
+  height: 200px;
+  opacity: 0;
+  background-repeat: no-repeat;
+  position: relative;
+  top: -70px;
+  left: 20px;
+  animation: cloud infinite;
+  animation-delay: 25s;
+  animation-duration: 80s;
+}
+.cloud-snow1 {
+  background-image: url(./white-cloud-clipart-design-illustration-free-png.webp);
+  width: 350px;
+  height: 200px;
+  opacity: 0;
+  background-repeat: no-repeat;
+  position: relative;
+  top: -10px;
+  animation: cloud infinite;
+  animation-delay: 25s;
+  animation-duration: 80s;
+}
+.cloud-snow2 {
+  background-image: url(./white-cloud-clipart-design-illustration-free-png.webp);
+  width: 350px;
+  height: 200px;
+  opacity: 0;
+  background-repeat: no-repeat;
+  position: relative;
+  top: -70px;
+  animation: cloud infinite;
+  animation-delay: 25s;
+  animation-duration: 80s;
+}
+.cloud-snow3 {
+  background-image: url(./white-cloud-clipart-design-illustration-free-png.webp);
+  width: 350px;
+  height: 200px;
+  opacity: 0;
+  background-repeat: no-repeat;
+  position: relative;
+  top: -20px;
+  right: 20px;
+  animation: cloud infinite;
+  animation-delay: 25s;
+  animation-duration: 80s;
+}
