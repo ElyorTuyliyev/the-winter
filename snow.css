@@ -46,7 +46,7 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow infinite;
+  animation: snow;
   animation-duration: 60s;
   animation-delay: 40s;
 
@@ -59,7 +59,7 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow infinite;
+  animation: snow;
   animation-duration: 60s;
   animation-delay: 37s;
   position: relative;
@@ -70,7 +70,7 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow infinite;
+  animation: snow;
   animation-duration: 60s;
   animation-delay: 47s;
   position: relative;
@@ -81,7 +81,7 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow infinite;
+  animation: snow;
   animation-duration: 60s;
   animation-delay: 32.5s;
   position: relative;
@@ -93,7 +93,7 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow infinite;
+  animation: snow;
   animation-duration: 60s;
   animation-delay: 35s;
   position: relative;
@@ -105,7 +105,7 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow infinite;
+  animation: snow;
   animation-duration: 60s;
   animation-delay: 36s;
   position: relative;
@@ -117,7 +117,7 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow infinite;
+  animation: snow;
   animation-duration: 60s;
   animation-delay: 38.5s;
   position: relative;
@@ -129,7 +129,7 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow infinite;
+  animation: snow;
   animation-duration: 60s;
   animation-delay: 37s;
   position: relative;
@@ -141,7 +141,7 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow infinite;
+  animation: snow;
   animation-duration: 60s;
   animation-delay: 38.5s;
   position: relative;
@@ -153,7 +153,7 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow infinite;
+  animation: snow;
   animation-duration: 60s;
   animation-delay: 40s;
   position: relative;
@@ -165,7 +165,7 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow infinite;
+  animation: snow;
   animation-duration: 60s;
   animation-delay: 40s;
   position: relative;
@@ -177,7 +177,7 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow infinite;
+  animation: snow;
   animation-duration: 60s;
   animation-delay: 43s;
   position: relative;
@@ -189,7 +189,7 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow infinite;
+  animation: snow;
   animation-duration: 60s;
   animation-delay: 45s;
   position: relative;
@@ -201,7 +201,7 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow infinite;
+  animation: snow;
   animation-duration: 60s;
   animation-delay: 42s;
   position: relative;
@@ -212,7 +212,7 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow infinite;
+  animation: snow;
   animation-duration: 60s;
   animation-delay: 44s;
   position: relative;
@@ -224,7 +224,7 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow infinite;
+  animation: snow;
   animation-duration: 60s;
   animation-delay: 47s;
   position: relative;
@@ -235,7 +235,7 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow infinite;
+  animation: snow;
   animation-duration: 60s;
   animation-delay: 49s;
   position: relative;
@@ -247,7 +247,7 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow infinite;
+  animation: snow;
   animation-duration: 60s;
   animation-delay: 46s;
   position: relative;
@@ -317,7 +317,7 @@ body {
   position: relative;
   top: -70px;
   left: 20px;
-  animation: cloud infinite;
+  animation: cloud;
   animation-delay: 25s;
   animation-duration: 80s;
 }
@@ -329,7 +329,7 @@ body {
   background-repeat: no-repeat;
   position: relative;
   top: -10px;
-  animation: cloud infinite;
+  animation: cloud;
   animation-delay: 25s;
   animation-duration: 80s;
 }
@@ -341,7 +341,7 @@ body {
   background-repeat: no-repeat;
   position: relative;
   top: -70px;
-  animation: cloud infinite;
+  animation: cloud;
   animation-delay: 25s;
   animation-duration: 80s;
 }
@@ -354,7 +354,7 @@ body {
   position: relative;
   top: -20px;
   right: 20px;
-  animation: cloud infinite;
+  animation: cloud;
   animation-delay: 25s;
   animation-duration: 80s;
 }
