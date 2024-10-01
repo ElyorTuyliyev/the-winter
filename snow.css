@@ -47,8 +47,8 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow;
-  animation-duration: 60s;
+  animation: snow linear;
+  animation-duration: 3 0s;
   animation-delay: 40s;
 
   position: relative;
@@ -60,8 +60,8 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow;
-  animation-duration: 60s;
+  animation: snow linear;
+  animation-duration: 3 0s;
   animation-delay: 37s;
   position: relative;
   top: 70px;
@@ -71,8 +71,8 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow;
-  animation-duration: 60s;
+  animation: snow linear;
+  animation-duration: 3 0s;
   animation-delay: 47s;
   position: relative;
   top: 60px;
@@ -82,8 +82,8 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow;
-  animation-duration: 60s;
+  animation: snow linear;
+  animation-duration: 3 0s;
   animation-delay: 32.5s;
   position: relative;
   top: 90px;
@@ -94,8 +94,8 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow;
-  animation-duration: 60s;
+  animation: snow linear;
+  animation-duration: 3 0s;
   animation-delay: 35s;
   position: relative;
   top: 70px;
@@ -106,8 +106,8 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow;
-  animation-duration: 60s;
+  animation: snow linear;
+  animation-duration: 3 0s;
   animation-delay: 36s;
   position: relative;
   top: 100px;
@@ -118,8 +118,8 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow;
-  animation-duration: 60s;
+  animation: snow linear;
+  animation-duration: 3 0s;
   animation-delay: 38.5s;
   position: relative;
   top: 70px;
@@ -130,8 +130,8 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow;
-  animation-duration: 60s;
+  animation: snow linear;
+  animation-duration: 3 0s;
   animation-delay: 37s;
   position: relative;
   top: 80px;
@@ -142,8 +142,8 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow;
-  animation-duration: 60s;
+  animation: snow linear;
+  animation-duration: 3 0s;
   animation-delay: 38.5s;
   position: relative;
   top: 70px;
@@ -154,8 +154,8 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow;
-  animation-duration: 60s;
+  animation: snow linear;
+  animation-duration: 3 0s;
   animation-delay: 40s;
   position: relative;
   top: 70px;
@@ -166,8 +166,8 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow;
-  animation-duration: 60s;
+  animation: snow linear;
+  animation-duration: 3 0s;
   animation-delay: 40s;
   position: relative;
   top: 90px;
@@ -178,8 +178,8 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow;
-  animation-duration: 60s;
+  animation: snow linear;
+  animation-duration: 3 0s;
   animation-delay: 43s;
   position: relative;
   top: 60px;
@@ -190,8 +190,8 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow;
-  animation-duration: 60s;
+  animation: snow linear;
+  animation-duration: 3 0s;
   animation-delay: 45s;
   position: relative;
   top: 90px;
@@ -202,8 +202,8 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow;
-  animation-duration: 60s;
+  animation: snow linear;
+  animation-duration: 3 0s;
   animation-delay: 42s;
   position: relative;
   top: 40px;
@@ -213,8 +213,8 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow;
-  animation-duration: 60s;
+  animation: snow linear;
+  animation-duration: 3 0s;
   animation-delay: 44s;
   position: relative;
   top: 90px;
@@ -225,8 +225,8 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow;
-  animation-duration: 60s;
+  animation: snow linear;
+  animation-duration: 3 0s;
   animation-delay: 47s;
   position: relative;
   top: 70px;
@@ -236,8 +236,8 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow;
-  animation-duration: 60s;
+  animation: snow linear;
+  animation-duration: 3 0s;
   animation-delay: 49s;
   position: relative;
   top: 90px;
@@ -248,8 +248,8 @@ body {
   font-size: 15px;
   padding: 10px;
   color: rgb(183, 233, 239);
-  animation: snow;
-  animation-duration: 60s;
+  animation: snow linear;
+  animation-duration: 3 0s;
   animation-delay: 46s;
   position: relative;
   top: 80px;
